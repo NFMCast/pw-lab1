@@ -1,0 +1,32 @@
+p
+{
+
+  background-color: rgba(34, 144, 235, 0.596);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12px;
+
+body {
+    margin: 25px;
+    background-color: rgb(240,240,240);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+  }
+  
+  h1 {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 5px;
+  }
+
+  h2 {
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 5px;
+  }
+
+  h3 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 5px;
+  }
+
